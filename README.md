@@ -1,11 +1,10 @@
 ## Node.js Studies
 
-####O que é Node.js:
-
+#### O que é Node.js:
 Node.js é um interpretador de JavaScript assíncrono com código aberto orientado a eventos.
 Criado por Ryan Dahl em 2009, busca migrar a programação do Javascript do cliente (frontend) para os servidores, criando assim, aplicações de alta escalabilidade (como um servidor web), manipulando milhares de conexões e eventos simultâneos em tempo real numa única máquina física.
 
-Foi implementado baseado no interpretador (http://https://pt.wikipedia.org/wiki/V8_(JavaScript) JavaScript Engine (interpretador de JavaScript em C++ com código aberto do Google, utilizado no Chrome), com desenvolvimento mantido pela fundação Node.js em parceria com a [Linux Foundation](http://https://pt.wikipedia.org/wiki/Linux_Foundation "Linux Foundation").
+Foi implementado baseado no interpretador [V8](http://https://pt.wikipedia.org/wiki/V8_(JavaScript) JavaScript Engine (interpretador de JavaScript em C++ com código aberto do Google, utilizado no Chrome), com desenvolvimento mantido pela fundação Node.js em parceria com a [Linux Foundation](http://https://pt.wikipedia.org/wiki/Linux_Foundation "Linux Foundation").
 
 #### Vantagens:
 - **Flexibilidade**
